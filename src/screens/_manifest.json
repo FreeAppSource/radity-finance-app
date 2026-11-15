@@ -1,0 +1,226 @@
+{
+ "app": "Radity Finance App",
+ "start": "s-01-01-splash",
+ "screens": [
+  {
+   "slug": "s-01-01-splash",
+   "name": "01.01 Splash",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 15,
+   "links": 1
+  },
+  {
+   "slug": "s-02-01-login",
+   "name": "02.01 Login",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 28,
+   "links": 2
+  },
+  {
+   "slug": "s-03-01-sign-up",
+   "name": "03.01 Sign Up",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 28,
+   "links": 2
+  },
+  {
+   "slug": "s-11-01-settings",
+   "name": "11.01 Settings",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 58,
+   "links": 4
+  },
+  {
+   "slug": "s-09-01-notifications",
+   "name": "09.01 Notifications",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 35,
+   "links": 4
+  },
+  {
+   "slug": "s-12-01-portfolio",
+   "name": "12.01 Portfolio",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 79,
+   "links": 4
+  },
+  {
+   "slug": "s-08-01-market",
+   "name": "08.01 Market",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 89,
+   "links": 4
+  },
+  {
+   "slug": "s-10-01-more-menu",
+   "name": "10.01 More Menu",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 28,
+   "links": 4
+  },
+  {
+   "slug": "s-08-02-market-coin",
+   "name": "08.02 Market Coin",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 153,
+   "links": 5
+  },
+  {
+   "slug": "s-08-03-market-coin-buy",
+   "name": "08.03 Market Coin Buy",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 141,
+   "links": 4
+  },
+  {
+   "slug": "s-11-02-account-settings",
+   "name": "11.02 Account Settings",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 54,
+   "links": 4
+  },
+  {
+   "slug": "s-06-01-bank-account",
+   "name": "06.01 Bank Account",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 63,
+   "links": 4
+  },
+  {
+   "slug": "s-05-01-home",
+   "name": "05.01 Home",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 87,
+   "links": 3
+  },
+  {
+   "slug": "s-05-02-home-card-swipe",
+   "name": "05.02 Home Card Swipe",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 95,
+   "links": 4
+  },
+  {
+   "slug": "s-05-03-menu-button",
+   "name": "05.03 Menu Button",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 110,
+   "links": 4
+  },
+  {
+   "slug": "s-03-02-sign-up-2",
+   "name": "03.02 Sign Up 2",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 39,
+   "links": 3
+  },
+  {
+   "slug": "s-02-02-forget-password",
+   "name": "02.02 Forget Password",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 27,
+   "links": 2
+  },
+  {
+   "slug": "s-02-02-forget-password-2",
+   "name": "02.02 Forget Password 2",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 26,
+   "links": 2
+  },
+  {
+   "slug": "s-03-03-forget-password-3",
+   "name": "03.03 Forget Password 3",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 26,
+   "links": 2
+  },
+  {
+   "slug": "s-02-03-forget-password-3",
+   "name": "02.03 Forget Password 3",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 31,
+   "links": 2
+  },
+  {
+   "slug": "s-02-04-forget-password-4",
+   "name": "02.04 Forget Password 4",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 34,
+   "links": 2
+  },
+  {
+   "slug": "s-03-04-forget-password-4",
+   "name": "03.04 Forget Password 4",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 34,
+   "links": 2
+  },
+  {
+   "slug": "s-02-05-forget-password-5",
+   "name": "02.05 Forget Password 5",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 32,
+   "links": 2
+  },
+  {
+   "slug": "s-02-06-forget-password-6",
+   "name": "02.06 Forget Password 6",
+   "page": "Kit",
+   "w": 375,
+   "h": 812,
+   "elements": 31,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter"
+ ]
+}
